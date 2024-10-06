@@ -8,14 +8,22 @@ body {
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 30px;
+<<<<<<< HEAD
   margin: 5px;
+=======
+  margin: 05px;
+>>>>>>> e641ec017175e7122a1373b0bc259e07749bed1d
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
+<<<<<<< HEAD
   margin-bottom: 30px;
+=======
+  margin-bottom: 20px;
+>>>>>>> e641ec017175e7122a1373b0bc259e07749bed1d
 }
 
 .three {
@@ -24,5 +32,10 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 30px;
+<<<<<<< HEAD
   margin-left: 300px;
 }
+=======
+  margin-left: 500px;
+}
+>>>>>>> e641ec017175e7122a1373b0bc259e07749bed1d
